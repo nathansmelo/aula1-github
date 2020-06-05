@@ -10,6 +10,8 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("Bom dia");
+		
 		double A, B, C, triangulo, circulo, trapezio, quadrado, retangulo;
 		
 		A = sc.nextDouble();
